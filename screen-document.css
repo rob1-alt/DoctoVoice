@@ -1,0 +1,201 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.docto-bulle-png3x-1-icon1 {
+  position: absolute;
+  top: 741px;
+  left: 301px;
+  width: 67px;
+  height: 66px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-3-icon {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 393px;
+  height: 538px;
+  object-fit: cover;
+}
+.rectangle-div39 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--bluedocto);
+  width: 393px;
+  height: 99px;
+}
+.image-1-icon2 {
+  position: absolute;
+  top: 18px;
+  left: 1px;
+  width: 394px;
+  height: 26px;
+  object-fit: cover;
+}
+.test-sanguin-b1 {
+  position: absolute;
+  top: 0;
+  left: 95px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.arrow-icon2,
+.group-div32 {
+  position: absolute;
+  top: 1.95px;
+  left: -1.5px;
+  width: 12.55px;
+  height: 22.09px;
+}
+.group-div32 {
+  top: 62px;
+  left: 42px;
+  width: 217px;
+  height: 26px;
+}
+.rectangle-div40,
+.upper-div2 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 394px;
+  height: 99px;
+}
+.rectangle-div40 {
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 122.36px;
+  height: 34.82px;
+}
+.group-div36,
+.group-div37,
+.suivant-div1 {
+  position: absolute;
+  width: 94.55px;
+  height: 23.27px;
+}
+.suivant-div1 {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.group-div36,
+.group-div37 {
+  top: 5.73px;
+  left: 14px;
+}
+.group-div36 {
+  top: 673px;
+  left: 224px;
+  width: 122.36px;
+  height: 34.82px;
+}
+.group-div34,
+.rectangle-div41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 852px;
+}
+.rectangle-div41 {
+  top: 14.55px;
+  left: 13px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 218.18px;
+  height: 48px;
+}
+.group-div39,
+.rectangle-div42 {
+  position: absolute;
+  left: 0;
+  width: 244.36px;
+  height: 72.82px;
+}
+.rectangle-div42 {
+  top: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(180deg, #fff, #e5e5e5);
+}
+.group-div39 {
+  top: 42.18px;
+  box-shadow: var(--ombre);
+}
+.doctovoice-tape-3-sur-4 {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 208px;
+  height: 62.55px;
+}
+.dsormais-vous-pouvez {
+  font-weight: 600;
+}
+.dsormais-vous-pouvez-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.dsormais-vous-pouvez-faire-un {
+  position: absolute;
+  top: 54px;
+  left: 13px;
+  font-size: var(--font-size-4xs);
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  width: 222px;
+  height: 54px;
+}
+.line-div6 {
+  position: absolute;
+  top: 43.5px;
+  left: 74.5px;
+  border-top: 1px solid var(--bluedocto);
+  box-sizing: border-box;
+  width: 95px;
+  height: 1px;
+}
+.group-div33,
+.group-div38 {
+  position: absolute;
+  top: 167px;
+  left: 74px;
+  width: 244.36px;
+  height: 115px;
+  font-size: var(--font-size-3xs);
+}
+.group-div33 {
+  top: 0;
+  left: 0;
+  width: 393px;
+  height: 852px;
+  text-align: center;
+  font-size: var(--font-size-4xs);
+  color: var(--bluedocto);
+}
+.screendocument-div {
+  position: relative;
+  background-color: var(--color-gray-400);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

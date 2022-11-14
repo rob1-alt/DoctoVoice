@@ -1,0 +1,594 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div20,
+.rectangle-div21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-300);
+  width: 333px;
+  height: 46px;
+}
+.rectangle-div21 {
+  top: 69px;
+}
+.achat-mdicaments-pharmacie-,
+.test-sanguin-antoine-dupont- {
+  position: absolute;
+  top: 15px;
+  left: 43px;
+  display: inline-block;
+}
+.test-sanguin-antoine-dupont- {
+  top: 84px;
+}
+.icon,
+.icon1 {
+  position: absolute;
+  top: 9px;
+  left: 7px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.icon1 {
+  top: 79px;
+  left: 8px;
+  width: 26px;
+  height: 26px;
+}
+.component-10-icon,
+.component-11-icon,
+.testurine-div {
+  position: absolute;
+  top: 89px;
+  left: 290px;
+  width: 19.29px;
+  height: 5px;
+}
+.component-10-icon,
+.testurine-div {
+  top: 20px;
+}
+.testurine-div {
+  top: 648px;
+  left: 29px;
+  width: 333px;
+  height: 115px;
+}
+.b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.rectangle-div22 {
+  position: absolute;
+  top: 9px;
+  left: 34px;
+  background-color: var(--color-gray-400);
+  width: 342px;
+  height: 1px;
+}
+.date-div {
+  position: absolute;
+  top: 607px;
+  left: 17px;
+  width: 376px;
+  height: 17px;
+  color: var(--color-gray-900);
+}
+.rectangle-div23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--bluedocto);
+  width: 198px;
+  height: 41px;
+}
+.ajouter-un-document1 {
+  position: absolute;
+  top: 11px;
+  left: 21px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 173px;
+  height: 20px;
+}
+.bouton-div {
+  position: absolute;
+  top: 697px;
+  left: 178px;
+  width: 198px;
+  height: 41px;
+  color: var(--color-white);
+}
+.icon2,
+.icon3 {
+  position: absolute;
+  top: 78px;
+  left: 7px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.icon3 {
+  top: 9px;
+  left: 8px;
+  width: 27px;
+  height: 27px;
+}
+.icon4,
+.testurine2-div {
+  position: absolute;
+  top: 446px;
+  left: 29px;
+  width: 333px;
+  height: 115px;
+}
+.icon4 {
+  top: 10px;
+  left: 8px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.testurine1-div {
+  position: absolute;
+  top: 377px;
+  left: 29px;
+  width: 333px;
+  height: 46px;
+}
+.test-sanguin-antoine-dupont-1 {
+  position: absolute;
+  top: 15px;
+  left: 41px;
+  display: inline-block;
+}
+.date-div1,
+.testsang-div {
+  position: absolute;
+  top: 308px;
+  left: 29px;
+  width: 333px;
+  height: 46px;
+}
+.date-div1 {
+  top: 265px;
+  left: 17px;
+  width: 376px;
+  height: 17px;
+  color: var(--color-gray-900);
+}
+.notifalldocs-icon,
+.rectangle-div29 {
+  position: absolute;
+  top: 0;
+  left: -414px;
+  width: 374px;
+  height: 84px;
+}
+.rectangle-div29 {
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-200);
+  width: 359px;
+  height: 83px;
+}
+.audio-file-1-icon {
+  position: absolute;
+  top: 23px;
+  left: 16px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.en-savoir-plus {
+  color: var(--bluedocto);
+}
+.votre-dernier-document-est-dis {
+  position: absolute;
+  top: 23px;
+  left: 68px;
+  line-height: 143.69%;
+  font-weight: 600;
+  display: inline-block;
+  width: 273px;
+  height: 47px;
+}
+.group-div17 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  width: 359px;
+  height: 83px;
+}
+.group-icon2,
+.group-icon3 {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-icon3 {
+  left: 359px;
+}
+.notiflastdoc-div {
+  position: absolute;
+  top: 2px;
+  left: 8px;
+  width: 374px;
+  height: 83px;
+}
+.div {
+  position: absolute;
+  top: 44px;
+  left: 291px;
+  line-height: 143.69%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-2-div {
+  position: absolute;
+  top: 161px;
+  left: 2px;
+  width: 388px;
+  height: 85px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+}
+.rectangle-div30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 399px;
+  height: 48px;
+}
+.documents-b,
+.notes-b {
+  position: absolute;
+  top: 18px;
+  left: 285px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.documents-b {
+  left: 57px;
+  color: var(--bluedocto);
+}
+.rectangle-div31 {
+  position: absolute;
+  top: 46px;
+  left: 3px;
+  background-color: var(--bluedocto);
+  width: 196px;
+  height: 2px;
+}
+.navup-div,
+.rectangle-div32 {
+  position: absolute;
+  top: 97px;
+  left: -3px;
+  width: 399px;
+  height: 48px;
+}
+.rectangle-div32 {
+  top: 0;
+  left: 1px;
+  background-color: var(--bluedocto);
+  width: 393px;
+  height: 99px;
+}
+.mes-documents-b {
+  position: absolute;
+  top: 62px;
+  left: 122px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.image-1-icon1,
+.upper-div1 {
+  position: absolute;
+  width: 394px;
+}
+.image-1-icon1 {
+  top: 18px;
+  left: 1px;
+  height: 26px;
+  object-fit: cover;
+}
+.upper-div1 {
+  top: 0;
+  left: -1px;
+  height: 99px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.rectangle-div33,
+.rectangle-div34 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-1300);
+  width: 395px;
+  height: 845px;
+}
+.rectangle-div34 {
+  top: 14.55px;
+  left: 13px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 218.18px;
+  height: 48px;
+}
+.group-div21,
+.rectangle-div35 {
+  position: absolute;
+  left: 0;
+  width: 244.36px;
+  height: 72.82px;
+}
+.rectangle-div35 {
+  top: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(180deg, #fff, #e5e5e5);
+}
+.group-div21 {
+  top: 42.18px;
+  box-shadow: var(--ombre);
+}
+.analysez-vos-rsultats-rapidem,
+.doctovoice-tape-1-sur-4 {
+  position: absolute;
+  top: 0;
+  left: 18px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 208px;
+  height: 62.55px;
+}
+.analysez-vos-rsultats-rapidem {
+  top: 49px;
+  font-size: var(--font-size-4xs);
+  font-weight: 600;
+}
+.group-div20,
+.group-div24,
+.rectangle-div36 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 244.36px;
+  height: 115px;
+}
+.group-div24,
+.rectangle-div36 {
+  width: 122.36px;
+  height: 34.82px;
+}
+.rectangle-div36 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+}
+.group-div24 {
+  box-shadow: var(--ombre);
+}
+.group-div25,
+.suivant-div {
+  position: absolute;
+  width: 94.55px;
+  height: 23.27px;
+}
+.suivant-div {
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.group-div25 {
+  top: 5.73px;
+  left: 14px;
+}
+.group-div22,
+.group-div23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 122.36px;
+  height: 34.82px;
+}
+.group-div22 {
+  top: 506px;
+  left: 151px;
+  font-size: var(--font-size-4xs);
+}
+.line-div5 {
+  position: absolute;
+  top: 219.5px;
+  left: 77.5px;
+  border-top: 1px solid var(--bluedocto);
+  box-sizing: border-box;
+  width: 95px;
+  height: 1px;
+}
+.group-div18,
+.group-div19 {
+  position: absolute;
+  top: 167px;
+  left: 72px;
+  width: 273.36px;
+  height: 540.82px;
+}
+.group-div18 {
+  top: 0;
+  left: 0;
+  width: 395px;
+  height: 845px;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--bluedocto);
+}
+.rectangle-div37,
+.rectangle-div38 {
+  position: absolute;
+  height: 2.17%;
+  width: 24.17%;
+  top: 0;
+  right: 25.95%;
+  bottom: 97.83%;
+  left: 49.87%;
+  background-color: var(--bluedocto);
+}
+.rectangle-div38 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.vector-icon {
+  position: absolute;
+  height: 61.11%;
+  width: 83.72%;
+  top: 0;
+  right: 6.98%;
+  bottom: 38.89%;
+  left: 9.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.accueil-div {
+  position: absolute;
+  top: 72.22%;
+  left: 0;
+  display: inline-block;
+}
+.group-div28 {
+  position: absolute;
+  height: 100%;
+  width: 12.43%;
+  top: 0;
+  right: 87.57%;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 61.11%;
+  width: 40.54%;
+  top: 0;
+  right: 25.68%;
+  bottom: 38.89%;
+  left: 33.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div29,
+.vector-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 21.39%;
+  top: 0;
+  right: 54.9%;
+  bottom: 0;
+  left: 23.71%;
+}
+.vector-icon2 {
+  height: 64.81%;
+  width: 38.81%;
+  right: 29.85%;
+  bottom: 35.19%;
+  left: 31.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div30 {
+  position: absolute;
+  height: 100%;
+  width: 19.37%;
+  top: 0;
+  right: 27.44%;
+  bottom: 0;
+  left: 53.19%;
+  color: var(--bluedocto);
+}
+.group-div31,
+.group-icon4 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.group-icon4 {
+  height: 66.14%;
+  width: 85.97%;
+  bottom: 33.86%;
+  left: 14.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div31 {
+  height: 100%;
+  width: 14.43%;
+  bottom: 0;
+  left: 85.57%;
+}
+.group-div26,
+.group-div27 {
+  position: absolute;
+  height: 60%;
+  width: 88.01%;
+  top: 13.33%;
+  right: 5.37%;
+  bottom: 26.67%;
+  left: 6.62%;
+}
+.group-div26 {
+  height: 97.83%;
+  width: 100%;
+  top: 2.17%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.component-5-div {
+  position: absolute;
+  top: 760px;
+  left: 0;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  width: 393px;
+  height: 92px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-roboto);
+}
+.screendocumentlist-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

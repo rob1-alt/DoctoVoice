@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./screen-document.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="screendocument-div">
+      <img
+        class="docto-bulle-png3x-1-icon1"
+        alt=""
+        src="public/doctobullepng3x-1@2x.png"
+        id="doctoBullePng3x1Image"
+      /><img class="image-3-icon" alt="" src="public/image-3@2x.png" />
+      <div class="upper-div2">
+        <div class="rectangle-div39"></div>
+        <img class="image-1-icon2" alt="" src="public/image-1@2x.png" />
+        <div class="group-div32">
+          <b class="test-sanguin-b1">Test Sanguin</b
+          ><img class="arrow-icon2" alt="" src="public/arrow-1.svg" />
+        </div>
+      </div>
+      <div class="group-div33">
+        <div class="group-div34">
+          <div class="group-div34">
+            <img class="group-div34" alt="" src="public/group-551.svg" />
+            <div class="group-div36">
+              <div class="rectangle-div40"></div>
+              <div class="group-div37">
+                <div class="suivant-div1" id="suivantText">Suivant</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="group-div38">
+          <div class="rectangle-div41"></div>
+          <div class="group-div39"><div class="rectangle-div42"></div></div>
+          <b class="doctovoice-tape-3-sur-4">Doctovoice - étape 3 sur 4</b>
+          <div class="dsormais-vous-pouvez-faire-un">
+            <span class="dsormais-vous-pouvez-container"
+              ><span class="dsormais-vous-pouvez"
+                >Désormais vous pouvez faire une </span
+              ><b>analyse complète</b
+              ><span class="dsormais-vous-pouvez">
+                de votre document ou rechercher une </span
+              ><b>donnée précise</b
+              ><span class="dsormais-vous-pouvez"> avec doctovoice</span></span
+            >
+          </div>
+          <div class="line-div6"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var doctoBullePng3x1Image = document.getElementById("doctoBullePng3x1Image");
+      if (doctoBullePng3x1Image) {
+        doctoBullePng3x1Image.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      
+      var suivantText = document.getElementById("suivantText");
+      if (suivantText) {
+        suivantText.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      </script>
+  </body>
+</html>

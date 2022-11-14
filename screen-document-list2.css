@@ -1,0 +1,630 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div79 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 13px rgba(0, 0, 0, 0.25);
+  width: 393px;
+  height: 96px;
+}
+.rectangle-div80 {
+  position: absolute;
+  top: 0;
+  left: 190px;
+  background-color: var(--bluedocto);
+  width: 108px;
+  height: 2px;
+}
+.bottomnav-div1,
+.rectangle-div81 {
+  position: absolute;
+  top: 756px;
+  left: 0;
+  width: 393px;
+  height: 96px;
+}
+.rectangle-div81 {
+  top: 0;
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 399px;
+  height: 48px;
+}
+.documents-b2,
+.notes-b2 {
+  position: absolute;
+  top: 18px;
+  left: 264px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.documents-b2 {
+  left: 64px;
+  color: var(--bluedocto);
+}
+.rectangle-div82 {
+  position: absolute;
+  top: 46px;
+  left: 3px;
+  background-color: var(--bluedocto);
+  width: 196px;
+  height: 2px;
+}
+.navup-div2 {
+  position: absolute;
+  top: 97px;
+  left: -3px;
+  width: 399px;
+  height: 48px;
+  font-family: var(--font-montserrat);
+}
+.rectangle-div83 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--bluedocto);
+  width: 393px;
+  height: 99px;
+}
+.mes-documents-b2 {
+  position: absolute;
+  top: 62px;
+  left: 18px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.image-1-icon4,
+.upper-div4 {
+  position: absolute;
+  width: 394px;
+}
+.image-1-icon4 {
+  top: 18px;
+  left: 1px;
+  height: 26px;
+  object-fit: cover;
+}
+.upper-div4 {
+  top: 0;
+  left: -1px;
+  height: 99px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
+.notifslider-icon {
+  position: absolute;
+  top: 164px;
+  left: 9px;
+  width: 374px;
+  height: 84px;
+}
+.b4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.rectangle-div84 {
+  position: absolute;
+  top: 9px;
+  left: 34px;
+  background-color: var(--color-gray-400);
+  width: 342px;
+  height: 1px;
+}
+.date-div4 {
+  position: absolute;
+  top: 265px;
+  left: 17px;
+  width: 376px;
+  height: 17px;
+  color: var(--color-gray-900);
+  font-family: var(--font-montserrat);
+}
+.rectangle-div85 {
+  position: absolute;
+  top: 697px;
+  left: 178px;
+  border-radius: var(--br-lg);
+  background-color: var(--bluedocto);
+  width: 198px;
+  height: 41px;
+}
+.ajouter-un-document3 {
+  position: absolute;
+  top: 708px;
+  left: 199px;
+  line-height: 143.69%;
+  display: inline-block;
+  font-family: var(--font-montserrat);
+  color: var(--color-white);
+  width: 173px;
+  height: 20px;
+}
+.rectangle-div86,
+.rectangle-div87 {
+  position: absolute;
+  top: 838px;
+  left: 126px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-1200);
+  width: 141px;
+  height: 5px;
+}
+.rectangle-div87 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-300);
+  box-shadow: var(--ombre);
+  width: 333px;
+  height: 46px;
+}
+.test-sanguin-dupon-04221 {
+  position: absolute;
+  top: 17px;
+  left: 60px;
+  display: inline-block;
+}
+.group-div76 {
+  position: absolute;
+  top: 308px;
+  left: 29px;
+  width: 333px;
+  height: 46px;
+}
+.analyse-de-sang-1-icon {
+  position: absolute;
+  top: 319px;
+  left: 43px;
+  width: 29px;
+  height: 29px;
+  object-fit: cover;
+}
+.frame-icon,
+.rectangle-icon1 {
+  position: absolute;
+  top: 331px;
+  left: 319px;
+  width: 19.29px;
+  height: 5px;
+}
+.rectangle-icon1 {
+  top: 860px;
+  left: 0;
+  width: 393px;
+  height: 828px;
+}
+.teste-sanguin-dupon-0422 {
+  position: absolute;
+  top: 876px;
+  left: 93px;
+  font-size: var(--font-size-base);
+  line-height: 143.69%;
+  text-align: center;
+  display: inline-block;
+  width: 208px;
+  height: 25px;
+}
+.image-2-icon1 {
+  position: absolute;
+  top: 921px;
+  left: 116px;
+  border-radius: var(--br-xl);
+  width: 161px;
+  height: 212px;
+  object-fit: cover;
+}
+.nouvelle-session-div2 {
+  position: absolute;
+  top: 0;
+  left: 89px;
+  line-height: 143.69%;
+  color: var(--color-gray-800);
+  text-align: center;
+  display: inline-block;
+  width: 187px;
+  height: 25px;
+}
+.line-div10,
+.line-div9 {
+  position: absolute;
+  top: 9.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 101px;
+  height: 1px;
+}
+.line-div10 {
+  left: 265.5px;
+}
+.rectangle-div88 {
+  position: absolute;
+  top: 37px;
+  left: 46px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  box-shadow: var(--ombre);
+  width: 323px;
+  height: 71px;
+}
+.bonjour-patient-voici2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.veux-tu-une-analyse2 {
+  margin: 0;
+}
+.bonjour-patient-voici-ton-doc2 {
+  position: absolute;
+  top: 48px;
+  left: 62px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 304px;
+  height: 54px;
+}
+.rectangle-div89,
+.rectangle-div90,
+.rectangle-div91,
+.rectangle-div92 {
+  position: absolute;
+  top: 132px;
+  left: 113px;
+  border-radius: var(--br-xs);
+  background-color: var(--bluedocto);
+  box-shadow: var(--ombre);
+  width: 256px;
+  height: 52px;
+}
+.rectangle-div90,
+.rectangle-div91,
+.rectangle-div92 {
+  top: 208px;
+  left: 46px;
+  background-color: var(--color-gray-500);
+  width: 303px;
+}
+.rectangle-div91,
+.rectangle-div92 {
+  top: 280px;
+  left: 302px;
+  background-color: var(--bluedocto);
+  width: 67px;
+}
+.rectangle-div92 {
+  top: 351px;
+  left: 46px;
+  background-color: var(--color-gray-500);
+  width: 285px;
+}
+.veux-tu-une-analyse-complte1 {
+  position: absolute;
+  top: 146px;
+  left: 133px;
+  line-height: 143.69%;
+  color: var(--color-white);
+  display: inline-block;
+  width: 304px;
+  height: 54px;
+}
+.je-nai-pas-compris-peux-tu-r1 {
+  top: 221px;
+  left: 56px;
+  width: 304px;
+}
+.je-nai-pas-compris-peux-tu-r1,
+.non-div2,
+.veux-tu-des-donnes-spcifique1 {
+  position: absolute;
+  line-height: 143.69%;
+  display: inline-block;
+  height: 54px;
+}
+.non-div2 {
+  top: 295px;
+  left: 323px;
+  color: var(--color-white);
+  width: 51px;
+}
+.veux-tu-des-donnes-spcifique1 {
+  top: 368px;
+  left: 56px;
+  width: 246px;
+}
+.group-div77 {
+  position: absolute;
+  top: 1153px;
+  left: 17px;
+  width: 437px;
+  height: 422px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-1100);
+}
+.capture-decran-2022-11-07-a1 {
+  position: absolute;
+  top: 1585px;
+  left: 158px;
+  border-radius: 176px;
+  width: 78px;
+  height: 76px;
+  object-fit: cover;
+}
+.rectangle-div93 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md) var(--br-md) 0 0;
+  background-color: var(--color-gray-1400);
+  width: 394px;
+  height: 800px;
+}
+.rectangle-div94,
+.rectangle-icon2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 394px;
+  height: 801px;
+}
+.rectangle-div94 {
+  top: 789px;
+  left: 133px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-1200);
+  width: 141px;
+  height: 5px;
+}
+.capture-decran-2022-11-06-a1,
+.image-2-icon2 {
+  position: absolute;
+  top: 334px;
+  left: 1px;
+  width: 393px;
+  height: 439px;
+}
+.image-2-icon2 {
+  top: 26px;
+  left: 69px;
+  border-radius: var(--br-xl);
+  width: 257px;
+  height: 308px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-div78 {
+  position: absolute;
+  top: 51px;
+  left: -1px;
+  width: 394px;
+  height: 801px;
+}
+.test-sanguin-dupon-04222 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 208px;
+  height: 25px;
+}
+.arrow-icon3,
+.group-div79 {
+  position: absolute;
+  top: 6.64px;
+  left: 246.64px;
+  width: 14.73px;
+  height: 8.36px;
+}
+.group-div79 {
+  top: 66px;
+  left: 80px;
+  width: 254px;
+  height: 25px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.hkeorymi-400x400-1-icon1,
+.hkeorymi-400x400-2-icon1,
+.hkeorymi-400x400-3-icon1 {
+  position: absolute;
+  top: -231px;
+  left: 0;
+  border-radius: var(--br-2xl);
+  width: 36px;
+  height: 35px;
+  object-fit: cover;
+}
+.hkeorymi-400x400-2-icon1,
+.hkeorymi-400x400-3-icon1 {
+  top: -84px;
+}
+.hkeorymi-400x400-3-icon1 {
+  top: 359px;
+  width: 40px;
+  height: 43px;
+}
+.bonjour-patient-voici-ton-doc3 {
+  position: absolute;
+  top: 49px;
+  left: 62px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 304px;
+  height: 54px;
+}
+.rectangle-div96,
+.rectangle-div99 {
+  position: absolute;
+  top: 132px;
+  left: 302px;
+  border-radius: var(--br-xs);
+  background-color: var(--bluedocto);
+  box-shadow: var(--ombre);
+  width: 67px;
+  height: 52px;
+}
+.rectangle-div99 {
+  top: 351px;
+  left: 46px;
+  background-color: var(--color-gray-500);
+  width: 223px;
+}
+.non-div3 {
+  position: absolute;
+  top: 146px;
+  left: 318px;
+  line-height: 143.69%;
+  color: var(--color-white);
+  display: inline-block;
+  width: 42px;
+  height: 54px;
+}
+.quest-ce-quun-lococyte,
+.voulez-vous-un-dtail-sur-ton1 {
+  position: absolute;
+  top: 224px;
+  left: 56px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 304px;
+  height: 22px;
+}
+.quest-ce-quun-lococyte {
+  top: 367px;
+  width: 246px;
+  height: 54px;
+}
+.group-div82,
+.rectangle-div100 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 374px;
+  height: 421px;
+}
+.rectangle-div100 {
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  box-shadow: var(--ombre);
+  width: 231px;
+  height: 39px;
+}
+.ce-sont-des-globules-blancs1 {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 246px;
+  height: 22px;
+}
+.group-div84,
+.rectangle-div101 {
+  position: absolute;
+  top: 434px;
+  left: 46px;
+  width: 261px;
+  height: 39px;
+}
+.rectangle-div101 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  box-shadow: var(--ombre);
+  width: 209px;
+}
+.rsum-de-votre-analyse1 {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 189px;
+  height: 22px;
+}
+.group-div85 {
+  position: absolute;
+  top: 502px;
+  left: 46px;
+  width: 209px;
+  height: 39px;
+}
+.rectangle-div102 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-500);
+  box-shadow: var(--ombre);
+  width: 285px;
+  height: 105px;
+}
+.votre-taux-de-leucocyte-est-l1 {
+  position: absolute;
+  top: 7px;
+  left: 15px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 266px;
+  height: 92px;
+}
+.group-div86 {
+  position: absolute;
+  top: 570px;
+  left: 46px;
+  width: 285px;
+  height: 105px;
+}
+.frame-div1,
+.group-div81 {
+  position: absolute;
+  top: -295px;
+  left: 0;
+  width: 374px;
+  height: 675px;
+}
+.frame-div1 {
+  top: 0;
+  width: 379px;
+  height: 430px;
+  overflow: hidden;
+}
+.docto-bulle-png3x-1-icon2 {
+  position: absolute;
+  top: 435px;
+  left: 156px;
+  width: 67px;
+  height: 66px;
+  object-fit: cover;
+}
+.group-div80 {
+  position: absolute;
+  top: 336px;
+  left: 14px;
+  width: 379px;
+  height: 501px;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-1100);
+}
+.screendocumentlist-div2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

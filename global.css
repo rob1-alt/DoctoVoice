@@ -1,0 +1,48 @@
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xs: 8px;
+  --font-size-4xs: 10px;
+  --font-size-3xs: 11px;
+  --font-size-2xs: 12px;
+  --font-size-xs: 13px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fdfdfd;
+  --color-gray-200: #f8fafd;
+  --color-gray-300: #faf8fd;
+  --color-gray-400: #eff2f6;
+  --color-gray-500: #ededed;
+  --color-gray-600: #daf3fd;
+  --color-gray-700: #dbe0e6;
+  --color-gray-800: #afbac6;
+  --color-gray-900: #65778c;
+  --bluedocto: #3778c4;
+  --color-gray-1100: #616161;
+  --color-gray-1200: #343434;
+  --color-gray-1300: rgba(0, 0, 0, 0.2);
+  --color-gray-1400: rgba(0, 0, 0, 0.9);
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-3xs: 5px;
+  --br-2xs: 8px;
+  --br-xs: 9px;
+  --br-sm: 10px;
+  --br-md: 28px;
+  --br-lg: 30px;
+  --br-xl: 31px;
+  --br-2xl: 200px;
+
+  /* Effects */
+  --ombre: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 24px 48px rgba(0, 0, 0, 0.1);
+}

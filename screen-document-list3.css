@@ -1,0 +1,475 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div133,
+.rectangle-div134 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-300);
+  width: 333px;
+  height: 46px;
+}
+.rectangle-div134 {
+  top: 69px;
+}
+.achat-mdicaments-pharmacie-2,
+.test-sanguin-antoine-dupont-4 {
+  position: absolute;
+  top: 15px;
+  left: 43px;
+  display: inline-block;
+}
+.test-sanguin-antoine-dupont-4 {
+  top: 84px;
+}
+.icon12,
+.icon13 {
+  position: absolute;
+  top: 9px;
+  left: 7px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.icon13 {
+  top: 79px;
+  left: 8px;
+  width: 26px;
+  height: 26px;
+}
+.component-10-icon2,
+.component-11-icon2,
+.testurine-div2 {
+  position: absolute;
+  top: 89px;
+  left: 290px;
+  width: 19.29px;
+  height: 5px;
+}
+.component-10-icon2,
+.testurine-div2 {
+  top: 20px;
+}
+.testurine-div2 {
+  top: 648px;
+  left: 29px;
+  width: 333px;
+  height: 115px;
+  cursor: pointer;
+}
+.b5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.rectangle-div135 {
+  position: absolute;
+  top: 9px;
+  left: 34px;
+  background-color: var(--color-gray-400);
+  width: 342px;
+  height: 1px;
+}
+.date-div5 {
+  position: absolute;
+  top: 607px;
+  left: 17px;
+  width: 376px;
+  height: 17px;
+  color: var(--color-gray-900);
+}
+.rectangle-div136 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--bluedocto);
+  width: 198px;
+  height: 41px;
+}
+.ajouter-un-document5 {
+  position: absolute;
+  top: 11px;
+  left: 21px;
+  line-height: 143.69%;
+  display: inline-block;
+  width: 173px;
+  height: 20px;
+}
+.bouton-div2 {
+  position: absolute;
+  top: 697px;
+  left: 178px;
+  width: 198px;
+  height: 41px;
+  color: var(--color-white);
+}
+.icon14,
+.icon15 {
+  position: absolute;
+  top: 78px;
+  left: 7px;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.icon15 {
+  top: 9px;
+  left: 8px;
+  width: 27px;
+  height: 27px;
+}
+.testurine2-div2 {
+  position: absolute;
+  top: 446px;
+  left: 29px;
+  width: 333px;
+  height: 115px;
+  cursor: pointer;
+}
+.icon16 {
+  position: absolute;
+  top: 10px;
+  left: 8px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.testurine1-div2 {
+  position: absolute;
+  top: 377px;
+  left: 29px;
+  width: 333px;
+  height: 46px;
+  cursor: pointer;
+}
+.test-sanguin-antoine-dupont-5 {
+  position: absolute;
+  top: 15px;
+  left: 41px;
+  display: inline-block;
+}
+.testsang-div2 {
+  position: absolute;
+  top: 308px;
+  left: 29px;
+  width: 333px;
+  height: 46px;
+  cursor: pointer;
+}
+.date-div6 {
+  position: absolute;
+  top: 265px;
+  left: 17px;
+  width: 376px;
+  height: 17px;
+  color: var(--color-gray-900);
+}
+.notifalldocs-icon2,
+.rectangle-div142 {
+  position: absolute;
+  top: 0;
+  left: -414px;
+  width: 374px;
+  height: 84px;
+}
+.rectangle-div142 {
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-gray-200);
+  width: 359px;
+  height: 83px;
+}
+.audio-file-1-icon2 {
+  position: absolute;
+  top: 23px;
+  left: 16px;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.en-savoir-plus2 {
+  color: var(--bluedocto);
+}
+.votre-dernier-document-est-dis2 {
+  position: absolute;
+  top: 23px;
+  left: 68px;
+  line-height: 143.69%;
+  font-weight: 600;
+  display: inline-block;
+  width: 273px;
+  height: 47px;
+}
+.group-div110 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  width: 359px;
+  height: 83px;
+}
+.group-icon23,
+.group-icon24 {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+}
+.group-icon24 {
+  left: 359px;
+}
+.notiflastdoc-div2 {
+  position: absolute;
+  top: 2px;
+  left: 8px;
+  width: 374px;
+  height: 83px;
+}
+.div2 {
+  position: absolute;
+  top: 44px;
+  left: 291px;
+  line-height: 143.69%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-2-div2 {
+  position: absolute;
+  top: 161px;
+  left: 2px;
+  width: 388px;
+  height: 85px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+}
+.rectangle-div143 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 399px;
+  height: 48px;
+}
+.documents-b3,
+.notes-b3 {
+  position: absolute;
+  top: 18px;
+  left: 285px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.documents-b3 {
+  left: 57px;
+  color: var(--bluedocto);
+}
+.rectangle-div144 {
+  position: absolute;
+  top: 46px;
+  left: 3px;
+  background-color: var(--bluedocto);
+  width: 196px;
+  height: 2px;
+}
+.navup-div3 {
+  position: absolute;
+  top: 97px;
+  left: -3px;
+  width: 399px;
+  height: 48px;
+}
+.rectangle-div145 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--bluedocto);
+  width: 393px;
+  height: 99px;
+}
+.mes-documents-b3 {
+  position: absolute;
+  top: 62px;
+  left: 122px;
+  line-height: 143.69%;
+  display: inline-block;
+}
+.image-1-icon7,
+.upper-div7 {
+  position: absolute;
+  width: 394px;
+}
+.image-1-icon7 {
+  top: 18px;
+  left: 1px;
+  height: 26px;
+  object-fit: cover;
+}
+.upper-div7 {
+  top: 0;
+  left: -1px;
+  height: 99px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.component-12-icon {
+  position: absolute;
+  top: 62px;
+  left: 349px;
+  width: 30px;
+  height: 30px;
+}
+.rectangle-div146,
+.rectangle-div147 {
+  position: absolute;
+  height: 2.17%;
+  width: 24.17%;
+  top: 0;
+  right: 25.95%;
+  bottom: 97.83%;
+  left: 49.87%;
+  background-color: var(--bluedocto);
+}
+.rectangle-div147 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+}
+.vector-icon12 {
+  position: absolute;
+  height: 61.11%;
+  width: 83.72%;
+  top: 0;
+  right: 6.98%;
+  bottom: 38.89%;
+  left: 9.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.accueil-div4 {
+  position: absolute;
+  top: 72.22%;
+  left: 0;
+  display: inline-block;
+}
+.group-div113 {
+  position: absolute;
+  height: 100%;
+  width: 12.43%;
+  top: 0;
+  right: 87.57%;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 61.11%;
+  width: 40.54%;
+  top: 0;
+  right: 25.68%;
+  bottom: 38.89%;
+  left: 33.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div114,
+.vector-icon14 {
+  position: absolute;
+  height: 100%;
+  width: 21.39%;
+  top: 0;
+  right: 54.9%;
+  bottom: 0;
+  left: 23.71%;
+}
+.vector-icon14 {
+  height: 64.81%;
+  width: 38.81%;
+  right: 29.85%;
+  bottom: 35.19%;
+  left: 31.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div115 {
+  position: absolute;
+  height: 100%;
+  width: 19.37%;
+  top: 0;
+  right: 27.44%;
+  bottom: 0;
+  left: 53.19%;
+  color: var(--bluedocto);
+}
+.group-div116,
+.group-icon25 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.group-icon25 {
+  height: 66.14%;
+  width: 85.97%;
+  bottom: 33.86%;
+  left: 14.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div116 {
+  height: 100%;
+  width: 14.43%;
+  bottom: 0;
+  left: 85.57%;
+}
+.group-div111,
+.group-div112 {
+  position: absolute;
+  height: 60%;
+  width: 88.01%;
+  top: 13.33%;
+  right: 5.37%;
+  bottom: 26.67%;
+  left: 6.62%;
+}
+.group-div111 {
+  height: 97.83%;
+  width: 100%;
+  top: 2.17%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.component-5-div4 {
+  position: absolute;
+  top: 760px;
+  left: 0;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  width: 393px;
+  height: 92px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-roboto);
+}
+.screendocumentlist-div3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
